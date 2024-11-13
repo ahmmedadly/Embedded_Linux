@@ -1,3 +1,3 @@
 # Embedded_Linux
 
-# iti frist
+# iti first
