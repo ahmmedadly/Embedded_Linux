@@ -1,0 +1,32 @@
+
+1. Red Hat, Ubuntu, Fedora
+
+2. The "man" command is used to display manual pages, providing detailed information about commands.
+
+3. The "rm" command is used to remove files and directories, while the "rmdir" command is used to remove empty directories.
+
+4. screenshot
+
+5. screenshot
+
+6. screenshot
+
+7. Four ways to navigate to your home directory are:  
+   - `cd`  
+   - `cd /home`  
+   - `cd ~`  
+   - `cd ../../home/`
+
+8. To list commands in `/usr/bin` that start with the letter "w", use:  
+   `ls /usr/bin/w*`
+
+9. Commands can be categorized into three types: internal shell commands, aliases, and external commands.
+
+10. To list commands in `/usr/bin` that start with the letter "c", use:  
+    `ls /usr/bin/c*`
+
+11. screenshot
+
+12. The `apropos` command is used to search manual pages for a keyword or topic.
+    like `apropos file`
+
