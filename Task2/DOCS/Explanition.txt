@@ -1,0 +1,11 @@
+          ** Explanation of Why the Binary Can Be Executed from Any Directory**
+
+#### The reason the binary can be executed from any directory is due to the *$PATH* environment variable*. 
+
+- Because`$PATH` is an environment variable that contains a list of directories.
+- When you type a command (like `binary_search`), the shell looks in each directory listed in   $PATH to find an executable with that name.
+
+#### AS SHOWN IN THE 3RD SCREESHOT THAT /usr/local/bin IS PART OF THE $PATH.
+
+#### 
+- Placing binaries in `/usr/local/bin` makes them globally accessible without specifying their   full path (e.g., `/usr/local/bin/binary_search`).
