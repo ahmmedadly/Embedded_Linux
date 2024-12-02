@@ -9,3 +9,22 @@
 
 #### 
 - Placing binaries in `/usr/local/bin` makes them globally accessible without specifying their   full path (e.g., `/usr/local/bin/binary_search`).
+
+**************************************************************************************************************************************************
+qustion(1)--> cat /etc/shells 
+    The file /etc/shells contains a list of all installed and available shells on your system.
+-----------------------------------------------
+qustion(2)--> env
+    env command list all the environment variables currently set in your shell.
+----------------------------------------------
+qustion(3)--> echo $SHELL
+    The $SHELL environment variable stores the path of the default shell used by your system.
+-----------------------------------------------
+qustion(4)--> echo \ then Enter
+    The shell will prompt for the next line, as \ escapes the newline character.
+    Purpose of \: The backslash (\) is used as an escape character.It tells the shell to treat the following character or line literally or as a continue.
+-----------------------------------------------
+qustion(5)-->  alias PrintPath='echo $PATH'
+    TO TEAT THE COMMAND --> PrintPath
+
+
